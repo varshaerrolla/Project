@@ -1,0 +1,2 @@
+python Personality.py
+pause
